@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Bitter",
+  "base_artist": "Roce",
+  "createdAt": "2025-12-01T08:26:17.923328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Bitter Boogie",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_The_Bitter_Boogie_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Is Bitter",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Love_Is_Bitter_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Is Bitter",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Love_Is_Bitter_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bitter",
+      "artist": "Lush",
+      "has_synced": false,
+      "path": "select/04_Bitter_Lush.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Lowest Bitter",
+      "artist": "Les Savy Fav",
+      "has_synced": true,
+      "path": "select/05_The_Lowest_Bitter_Les_Savy_Fav.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bitter Tears",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/06_Bitter_Tears_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take The Bitter With The Sweet",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/07_Take_The_Bitter_With_The_Sweet_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Bitter Earth / On the Nature of Daylight",
+      "artist": "Max Richter feat. Dinah Washington",
+      "has_synced": false,
+      "path": "select/08_This_Bitter_Earth___On_the_Nature_of_Daylight_Max_Richter_feat._Dinah_Washington.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Bitter Earth (feat. Dinah Washington) / On the Nature of Daylight",
+      "artist": "Max Richter",
+      "has_synced": false,
+      "path": "select/09_This_Bitter_Earth_(feat._Dinah_Washington)___On_the_Nature_of_Daylight_Max_Richter.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Till the Bitter End",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/10_Till_the_Bitter_End_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (James Lavelle Remix)",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/11_Bitter_Sweet_Symphony_(James_Lavelle_Remix)_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (James Lavelle Remix)",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/12_Bitter_Sweet_Symphony_(James_Lavelle_Remix)_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony - Extended Version",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/13_Bitter_Sweet_Symphony_-_Extended_Version_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony [Extended Version]",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/14_Bitter_Sweet_Symphony_[Extended_Version]_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/15_Bitter_Sweet_Symphony_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony [Original]",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/16_Bitter_Sweet_Symphony_[Original]_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony - Radio Edit",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/17_Bitter_Sweet_Symphony_-_Radio_Edit_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony [Radio Edit]",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/18_Bitter_Sweet_Symphony_[Radio_Edit]_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Bitter End",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/19_The_Bitter_End_Placebo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bittersweet / Hatching Mayflies",
+      "artist": "the HIATUS",
+      "has_synced": false,
+      "path": "select/pl_01_Bittersweet___Hatching_Mayflies_the_HIATUS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "BITTER BUTTER",
+      "artist": "the HIATUS",
+      "has_synced": false,
+      "path": "select/pl_02_BITTER_BUTTER_the_HIATUS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Bittersweet / Hatching Mayflies",
+      "artist": "the HIATUS",
+      "has_synced": false,
+      "path": "select/pl_03_Bittersweet___Hatching_Mayflies_the_HIATUS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Bittersweet",
+      "artist": "the HIATUS",
+      "has_synced": false,
+      "path": "select/pl_04_Bittersweet_the_HIATUS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Bittersweet",
+      "artist": "the HIATUS",
+      "has_synced": false,
+      "path": "select/pl_05_Bittersweet_the_HIATUS.txt"
+    }
+  ]
+}
